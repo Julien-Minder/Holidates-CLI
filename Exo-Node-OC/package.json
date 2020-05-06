@@ -1,0 +1,19 @@
+{
+  "name": "holidates-cli",
+  "version": "1.0.0",
+  "description": "Learning project with Node.js technology",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-Minder/Holidates-CLI.git"
+  },
+  "author": "DaJuJu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julien-Minder/Holidates-CLI/issues"
+  },
+  "homepage": "https://github.com/Julien-Minder/Holidates-CLI#readme"
+}
