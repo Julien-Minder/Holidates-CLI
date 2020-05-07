@@ -39,7 +39,7 @@ var server = http.createServer(function (req, res) {
     } else {
         res.write('Vous devez bien avoir un prénom et un nom, non ?');
     }
-    console.log(url)
+    
     res.end();
 });
 server.listen(8080);
