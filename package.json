@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Julien-Minder/Holidates-CLI/issues"
   },
-  "homepage": "https://github.com/Julien-Minder/Holidates-CLI#readme"
+  "homepage": "https://github.com/Julien-Minder/Holidates-CLI#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "country-list": "^2.2.0"
+  }
 }
