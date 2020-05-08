@@ -1,5 +1,5 @@
 {
-  "name": "holidates-cli",
+  "name": "@john-ventura/holidates-cli",
   "version": "1.0.1",
   "bin": {
     "holidates": "./index.js"
